@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsumoAPI</string>
+    <string name="botao_pesquisar">Search</string>
+    <string name="hint_search">Input number Pokemon</string>
+</resources>
